@@ -1,0 +1,10 @@
+<application>
+  <component name="ProjectManager">
+    <defaultProject>
+      <component name="PropertiesComponent">
+        <property name="nodejs.jest.jest_package" value="" />
+        <property name="settings.editor.selected.configurable" value="configurable.group.appearance" />
+      </component>
+    </defaultProject>
+  </component>
+</application>
