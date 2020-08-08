@@ -39,6 +39,18 @@
     <option name="SHOW_BREADCRUMBS" value="false" />
     <option name="IS_DND_ENABLED" value="false" />
   </component>
+  <component name="InlayHintsSettings">
+    <option name="disabledLanguages">
+      <set>
+        <option value="Angular2Html" />
+        <option value="JavaScript" />
+        <option value="SQL" />
+        <option value="TypeScript" />
+        <option value="Vue" />
+      </set>
+    </option>
+    <option name="lastViewedProviderKeyId" value="parameter.hints.old" />
+  </component>
   <component name="PhpCodeFoldingSettings">
     <option name="COLLAPSE_IMPORTS" value="false" />
   </component>
